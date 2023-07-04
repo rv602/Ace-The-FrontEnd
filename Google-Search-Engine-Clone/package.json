@@ -9,7 +9,7 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
     "express": "^4.17.1",
-    "heroku": "^7.47.4",
+    "heroku": "^7.69.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
